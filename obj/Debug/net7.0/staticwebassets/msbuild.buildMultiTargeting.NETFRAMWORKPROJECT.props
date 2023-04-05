@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/NETFRAMWORKPROJECT.props" />
+</Project>
