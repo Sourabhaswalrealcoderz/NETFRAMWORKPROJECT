@@ -10,8 +10,7 @@ RUN dotnet publish -c Release -o out
 
 
 
-EXPOSE   8080
-WORKDIR /app
+
 
 # Build runtime image
 FROM mcr.microsoft.com/dotnet/aspnet:7.0
